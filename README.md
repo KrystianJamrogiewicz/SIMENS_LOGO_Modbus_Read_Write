@@ -2,6 +2,8 @@
 
 Data transfer between Siemens LOGO! and a PC using **Modbus TCP** and Python code. The script reads input states (digital/analog) and controls the PLC outputs.
 
+Link to video demonstration: https://www.linkedin.com/posts/krystian-jamrogiewicz-8b3770280_simenslogo-modbus-python-activity-7388300177234620416-XU4W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAER00AcB6L5q64HzB6NpWSs6syZ06z8OhkU
+
 ---
 
 ## Hardware
